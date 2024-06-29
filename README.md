@@ -5,4 +5,4 @@ It's really just a personal project, because I want to read the books of the bib
 
 It requires importing request and json.
 
-It will output a file wherever it is run.
+It is meant to be run from a command line and will output a file wherever it is run.
